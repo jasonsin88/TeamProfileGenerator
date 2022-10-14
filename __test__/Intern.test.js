@@ -7,7 +7,7 @@ test('Can set school', () => {
 });
 
 test('getRole() should return \'intern\'', () => {
-    const role = 'intern';
+    const role = 'Intern';
     const intern = new Intern('Finn', 13, 'finn@email.com', 'New York University');
     expect(intern.getRole()).toBe(role);
 });

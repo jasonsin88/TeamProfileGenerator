@@ -8,6 +8,15 @@
     border: none;
 }
 
+.card-header {
+    background-color: lightsteelblue;
+}
+
 .card-body {
-    background-color: rgb(240, 240, 240);
+    background-color: lightgray;
+}
+
+.team-heading {
+    background-color: whitesmoke;
+    color: steelblue
 }
